@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prima Application</string>
+    <string name="search_placeholder">Search</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="country_name">Name</string>
+    <string name="country_code">Code</string>
+    <string name="country_languages">Languages</string>
+    <string name="country_phone">Phone</string>
+    <string name="country_continent">Continent</string>
+    <string name="country_capital">Capital</string>
+    <string name="country_currency">Currency</string>
+</resources>
